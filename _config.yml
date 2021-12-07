@@ -1,4 +1,0 @@
-theme: jekyll-theme-cayman
-domain: mms142-groupb-202.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://mms142-groupb-202.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /-mms142-groupb-2021/      # place folder name if the site is served in a subfolder

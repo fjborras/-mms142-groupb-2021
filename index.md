@@ -50,7 +50,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Licensing issues
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The widespread adoption of LEOs across countries may be further delayed by the fact that each country has its own set of licensing rules and regulations, and this could discourage operators from entering countries that might have strict and lengthy licensing processes (Garrity and Hussar, 2021). The table below shows an example of the licensing requirements in Asia and the Pacific.
+
+![table](https://user-images.githubusercontent.com/95443192/145575870-f5d90389-00ae-4886-9fb2-bda4a1bafd1b.jpg)
+
+Figure 4. Table showing the different licensing requirements of internet service providers across Asia and the Pacific. Better Broadband Alliance, 2020, in Garrity and Hussar, 2021, p. 27 (Table 5).
 
 ### Space junk or orbital debris
 

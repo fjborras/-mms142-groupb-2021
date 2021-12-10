@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Congestion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If the deployment of LEO satellites is successful, the earth’s orbit will become increasingly congested and polluted. Consequently, astronomers' views will be obstructed, hampering their search for undiscovered planets or even black holes. Further, the increased congestion in the Earth's orbit increases the likelihood of space collisions. As such, this can result in the "_Kessler Syndrome_", in which debris collides with other satellites, causing even more debris. As a result, the space would be totally inaccessible and unsafe. 
 
 ### Light pollution
 

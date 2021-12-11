@@ -100,7 +100,7 @@ The 2020 revision process began in 2017 and was led by NASA’s Center Technolog
 
 
 ![ROADMAP2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
-_Figure 4. Note. NASA’s technology development activities 2015 NASA Roadmap. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)_
+_Figure 4. NASA’s technology development activities 2015 NASA Roadmap. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)_
 
 ### What are the 17 Taxonomy Areas?
 
@@ -126,7 +126,7 @@ _Figure 4. Note. NASA’s technology development activities 2015 NASA Roadmap. R
 ![Roadmap2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
  
  
- _Figure 5. Note.The updated 2020 NASA Technology Taxonomy. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)_
+ _Figure 5. The updated 2020 NASA Technology Taxonomy. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)_
 
 ## **Roadblocks, Issues and Challenges**
 
@@ -187,6 +187,9 @@ The International Astronomical Union have voiced their concern about LEO satelli
 
 Overall, LEO satellites could dramatically transform the world’s technologies, transportations, and connectivity. These cost-effective constellations have the ability to provide tangible solutions and change everyone’s lives for the better. These include but are not limited to the promotion of business digitalization, adoption of the Internet of Things (IoT), and utilization of terrestrial data systems of military units and rescue operations. However, despite its promising features and potential capacity to be a solution for digital inequalities especially in the context of internet connectivity, its accompanying issues should also be taken into consideration. These include spectral interferences for other satellites, cost issues, licensing concerns, light pollution, and space junk. As such, these should be deliberately discussed by stakeholders involved in the proliferation of LEO satellites. If the initial hurdles are overcome, it might open up a myriad of possibilities for connectiong all corners of the world and, perhaps, eventually bridging the digital divide. 
 
+<br />
+<br />
+<br />
 
 ```markdown
 References:
@@ -200,13 +203,13 @@ References:
 7. Christensen, C. (n.d.). Disruptive Innovation. The Interaction Design Foundation. Retrieved from https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 8. Cooke, K. (2021). How Is Low Earth Orbit Changing Satellite Internet?. X2nSat. Retrieved from https://x2n.com/blog/how-is-low-earth-orbit-changing-satellite-internet/.
 9. Erwin, S. (2019, December 7). SpaceX working on fix for Starlink satellites so they don’t disrupt astronomy. Space News. Retrieved from https://spacenews.com/spacex-working-on-fix-for-starlink-satellites-so-they-dont-disrupt-astronomy/
-10. Garrity, J. and Husar, A. (2021). Digital Connectivity and Low Earth Orbit Satellite Constellations: Opportunities for Asia and the Pacific. ADS Sustainable Development Working Paper Series (No. 76). Retrieved from https://www.adb.org/sites/default/files/publication/696521/sdwp-076-digital-connectivity-low-earth-orbit-satellite.pdf
+10. Garrity, J. and Husar, A. (2021). Digital Connectivity and Low Earth Orbit Satellite Constellations: Opportunities for Asia and the Pacific. ADB Sustainable Development Working Paper Series (No. 76). Retrieved from https://www.adb.org/sites/default/files/publication/696521/sdwp-076-digital-connectivity-low-earth-orbit-satellite.pdf
 11. Geneva. (2020). Household Internet access in urban areas twice as high as in rural areas. ITU. Retrieved from https://www.itu.int/en/mediacentre/Pages/pr27-2020-facts-figures-urban-areas-higher-internet-access-than-rural.aspx
 12. Hall, L. (2015) 2015 NASA Technology Roadmaps (Archive) Retrieved from https://www.nasa.gov/offices/oct/home/roadmaps/index.html
 13. Invest in Canada. (2021). Telesat’s Lightspeed Satellites will Bring Broadband to More Canadians. Retrieved from https://www.youtube.com/watch?v=V_b1JM31vf8
 14. Kinney, S. (2021). The business case for LEO satellite constellations: Walking a tightrope to success (Analyst Angle). RCR Wireless News. Retrieved from https://www.rcrwireless.com/20210319/analyst-angle/the-business-case-for-leo-satellite-constellations-walking-a-tightrope-to-success-analyst-angle.
 15. Koziol, M. (2020). Amazon’s Project Kuiper is More Than the Company’s Response to SpaceX. Retrieved from https://spectrum.ieee.org/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex.
-16. Mack, E. (2019, June 5). SpaceX Starlink satellites have astronomers amplifying the cosmic alarm. CNET. Retrieved from https://www.cnet.com/home/internet/starlink-satellite-internet-explained/
+16. Mack, E. (2019, June 5). SpaceX Starlink satellites have astronomers amplifying the cosmic alarm. CNET. Retrieved from https://www.cnet.com/news/spacex-starlink-satellites-have-astronomers-amplifying-cosmic-alarm/
 17. Miller, A. (2019). Powered by satellite, Link 16 military radio set to get a huge boost. ViaSat. Retrieved from https://www.viasat.com/about/newsroom/blog/xvi/.
 18. Newsthink. (2020). How Amazon Plans to Compete With SpaceX’s Starlink. Retrieved from https://www.youtube.com/watch?v=D9RSFgRC0XY.
 19. OECD (2011). An Overview from Growing Income Inequalities in OECD Countries: Main Findings. Retrieved from https://www.oecd.org/els/soc/49499779.pdf

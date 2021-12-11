@@ -163,38 +163,37 @@ Overall, LEO satellites could dramatically transform the world’s technologies,
 ```markdown
 References:
 
-1. Araneta, A., Carrasco B., Rahemtulla, H., Balgos, S., Sy, S. (2021). Mapping digital poverty in PH. Inquirer. https://business.inquirer.net/318223/mapping-digital-poverty-in-ph
+1. Araneta, A., Carrasco B., Rahemtulla, H., Balgos, S., Sy, S. (2021). Mapping digital poverty in PH. Inquirer. Retrieved from https://business.inquirer.net/318223/mapping-digital-poverty-in-ph
 2. Asian Development Bank (2021). Five Ways Low Earth Orbit Satellites Will Impact Asia and the Pacific. Retrieved from https://www.adb.org/news/features/five-ways-low-earth-orbit-satellites-impact-asia-pacific
-3. Bhutada, G. (2021). Space Sustainability: Preserving the Usability of Outer Space. Visual Capitalist. https://www.visualcapitalist.com/space-sustainability-preserving-the-usability-of-outer-space/
-4. Bryan, W. (2020) 2020 NASA Technology Taxonomy retrieved on December 3, 2021 from https://www.nasa.gov/offices/oct/taxonomy/index.html
+3. Bhutada, G. (2021). Space Sustainability: Preserving the Usability of Outer Space. Visual Capitalist. Retrieved from https://www.visualcapitalist.com/space-sustainability-preserving-the-usability-of-outer-space/
+4. Bryan, W. (2020) 2020 NASA Technology Taxonomy. Retrieved from https://www.nasa.gov/offices/oct/taxonomy/index.html
 5. Business Insider India. (2020). What Elon Musk’s 42,000 Satellites Could Do To Earth. Retrieved from https://www.youtube.com/watch?v=_sJbTVmKNEo. 
-6. Callaham, J. (2021, November 14).  What is Starlink? Elon Musk's satellite internet service explained. Android Authority. https://www.androidauthority.com/what-is-starlink-1134426/
-7. Christensen, C. (n.d.). Disruptive Innovation. The Interaction Design Foundation. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
+6. Callaham, J. (2021, November 14).  What is Starlink? Elon Musk's satellite internet service explained. Android Authority. Retrieved from https://www.androidauthority.com/what-is-starlink-1134426/
+7. Christensen, C. (n.d.). Disruptive Innovation. The Interaction Design Foundation. Retrieved from https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 8. Cooke, K. (2021). How Is Low Earth Orbit Changing Satellite Internet?. X2nSat. Retrieved from https://x2n.com/blog/how-is-low-earth-orbit-changing-satellite-internet/.
-9. Erwin, S. (2019, December 7). SpaceX working on fix for Starlink satellites so they don’t disrupt astronomy. Space News. https://spacenews.com/spacex-working-on-fix-for-starlink-satellites-so-they-dont-disrupt-astronomy/
-11. Garrity, J. & Husar, A. (2021). Digital Connectivity and Low Earth Orbit Satellite Constellations: Opportunities For Asia and the Pacific. ADB Sustainable Development working paper series, No.76 . Retrieved from https://www.adb.org/sites/default/files/publication/696521/sdwp-076-digital-connectivity-low-earth-orbit-satellite.pdf
-12. Garrity, J. and Husar, A. (2021). Digital Connectivity and Low Earth Orbit Satellite Constellations: Opportunities for Asia and the Pacific. ADS Sustainable Development Working Paper Series (No. 76). Retrieved from https://www.adb.org/sites/default/files/publication/696521/sdwp-076-digital-connectivity-low-earth-orbit-satellite.pdf
-13. Geneva. (2020). Household Internet access in urban areas twice as high as in rural areas. ITU. https://www.itu.int/en/mediacentre/Pages/pr27-2020-facts-figures-urban-areas-higher-internet-access-than-rural.aspx
-14. Hall, L. (2015) 2015 NASA Technology Roadmaps (Archive) Retrieved on December 3, 2021 from https://www.nasa.gov/offices/oct/home/roadmaps/index.html
-15. Invest in Canada. (2021). Telesat’s Lightspeed Satellites will Bring Broadband to More Canadians. Retrieved from https://www.youtube.com/watch?v=V_b1JM31vf8
-16. Kinney, S. (2021). The business case for LEO satellite constellations: Walking a tightrope to success (Analyst Angle). RCR Wireless News. Retrieved from https://www.rcrwireless.com/20210319/analyst-angle/the-business-case-for-leo-satellite-constellations-walking-a-tightrope-to-success-analyst-angle.
-17. Koziol, M. (2020). Amazon’s Project Kuiper is More Than the Company’s Response to SpaceX. Retrieved from https://spectrum.ieee.org/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex.
-18. Mack, E. (2019, June 5). SpaceX Starlink satellites have astronomers amplifying the cosmic alarm. CNET. https://www.cnet.com/home/internet/starlink-satellite-internet-explained/
-19. Miller, A. (2019). Powered by satellite, Link 16 military radio set to get a huge boost. ViaSat. Retrieved from https://www.viasat.com/about/newsroom/blog/xvi/. 
-20. Newsthink. (2020). How Amazon Plans to Compete With SpaceX’s Starlink. Retrieved from https://www.youtube.com/watch?v=D9RSFgRC0XY. 
-21. OECD (2011). An Overview from Growing Income Inequalities in OECD Countries: Main Findings. https://www.oecd.org/els/soc/49499779.pdf
-22. OneWeb. (2020). How OneWeb’s system works. Retrieved from https://www.youtube.com/watch?v=8_kytEDxC0A.  
-23. Potter, B. (2018). The Growing LEO/GEO Interference Challenge.
-24. Reyes, R. (2020). WB report: 60% of PH households don’t have access to Internet. https://newsbytes.ph/2020/11/15/wb-report-60-of-ph-households-dont-have-access-to-internet/
-25. Roser, M & Ritchie, H. (2013). Technological Progress. Our World In Data Org. https://ourworldindata.org/technological-progress
-26. Shields, T. (2021). Space Debris Could Create Problems for Satellite Internet. GovTech. https://www.govtech.com/network/space-debris-could-create-problems-for-satellite-internet
-27. Shultz, D. (2020). Atmospheric Drag Alters Satellite Orbits. Eos. https://eos.org/research-spotlights/atmospheric-drag-alters-satellite-orbits
-28. Small Satellites. (2021). ViaSat. Retrieved from https://www.viasat.com/space-innovation/space-systems/small-satellites/.
-29. Smith, T. (2020). What Is Disruptive Technology? Investopedia. https://www.investopedia.com/terms/d/disruptive-technology.asp
-30. Space Security Index. (n.d.). Space Security https://spacesecurityindex.org/space-security/
-31. STL Partners. (2020). Understanding the unconnected. Executive Briefing Service, Recharging Consumer Revenues. https://stlpartners.com/research/understanding-why-half-the-people-in-the-world-dont-have-access-to-the-internet/
-32. The European Space Agency. (2020, February 3). Low Earth Orbit. https://www.esa.int/esearch?q=low%2Bearth%2Borbit. 
-33. What is User Terminal | IGI Global. (2021). Retrieved from https://www.igi-global.com/dictionary/user-terminal/31237.
-34. Yakovlev, M. (2005, August). The “IADC Space Debris Mitigation Guidelines” and supporting documents. In 4th European Conference on Space Debris. https://adsabs.harvard.edu/full/2005ESASP.587..591Y
+9. Erwin, S. (2019, December 7). SpaceX working on fix for Starlink satellites so they don’t disrupt astronomy. Space News. Retrieved from https://spacenews.com/spacex-working-on-fix-for-starlink-satellites-so-they-dont-disrupt-astronomy/
+10. Garrity, J. and Husar, A. (2021). Digital Connectivity and Low Earth Orbit Satellite Constellations: Opportunities for Asia and the Pacific. ADS Sustainable Development Working Paper Series (No. 76). Retrieved from https://www.adb.org/sites/default/files/publication/696521/sdwp-076-digital-connectivity-low-earth-orbit-satellite.pdf
+11. Geneva. (2020). Household Internet access in urban areas twice as high as in rural areas. ITU. Retrieved from https://www.itu.int/en/mediacentre/Pages/pr27-2020-facts-figures-urban-areas-higher-internet-access-than-rural.aspx
+12. Hall, L. (2015) 2015 NASA Technology Roadmaps (Archive) Retrieved from https://www.nasa.gov/offices/oct/home/roadmaps/index.html
+13. Invest in Canada. (2021). Telesat’s Lightspeed Satellites will Bring Broadband to More Canadians. Retrieved from https://www.youtube.com/watch?v=V_b1JM31vf8
+14. Kinney, S. (2021). The business case for LEO satellite constellations: Walking a tightrope to success (Analyst Angle). RCR Wireless News. Retrieved from https://www.rcrwireless.com/20210319/analyst-angle/the-business-case-for-leo-satellite-constellations-walking-a-tightrope-to-success-analyst-angle.
+15. Koziol, M. (2020). Amazon’s Project Kuiper is More Than the Company’s Response to SpaceX. Retrieved from https://spectrum.ieee.org/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex.
+16. Mack, E. (2019, June 5). SpaceX Starlink satellites have astronomers amplifying the cosmic alarm. CNET. Retrieved from https://www.cnet.com/home/internet/starlink-satellite-internet-explained/
+17. Miller, A. (2019). Powered by satellite, Link 16 military radio set to get a huge boost. ViaSat. Retrieved from https://www.viasat.com/about/newsroom/blog/xvi/.
+18. Newsthink. (2020). How Amazon Plans to Compete With SpaceX’s Starlink. Retrieved from https://www.youtube.com/watch?v=D9RSFgRC0XY.
+19. OECD (2011). An Overview from Growing Income Inequalities in OECD Countries: Main Findings. Retrieved from https://www.oecd.org/els/soc/49499779.pdf
+20. OneWeb. (2020). How OneWeb’s system works. Retrieved from https://www.youtube.com/watch?v=8_kytEDxC0A. 
+21. Potter, B. (2018). The Growing LEO/GEO Interference Challenge. Retrieved from https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=4133&context=smallsat
+22. Reyes, R. (2020). WB report: 60% of PH households don’t have access to Internet. Retrieved from https://newsbytes.ph/2020/11/15/wb-report-60-of-ph-households-dont-have-access-to-internet/
+23. Roser, M & Ritchie, H. (2013). Technological Progress. Our World In Data Org. Retrieved from https://ourworldindata.org/technological-progress
+24. Shields, T. (2021). Space Debris Could Create Problems for Satellite Internet. GovTech. Retrieved from https://www.govtech.com/network/space-debris-could-create-problems-for-satellite-internet
+25. Shultz, D. (2020). Atmospheric Drag Alters Satellite Orbits. Eos. Retrieved from https://eos.org/research-spotlights/atmospheric-drag-alters-satellite-orbits28.
+26. Small Satellites. (2021). ViaSat. Retrieved from https://www.viasat.com/space-innovation/space-systems/small-satellites/.
+27. Smith, T. (2020). What Is Disruptive Technology? Investopedia. Retrieved from https://www.investopedia.com/terms/d/disruptive-technology.asp
+28. Space Security Index. (n.d.). Space Security. Retrieved from https://spacesecurityindex.org/space-security/
+29. STL Partners. (2020). Understanding the unconnected. Executive Briefing Service, Recharging Consumer Revenues. Retrieved from https://stlpartners.com/research/understanding-why-half-the-people-in-the-world-dont-have-access-to-the-internet/
+31. The European Space Agency. (2020, February 3). Low Earth Orbit. Retrieved from https://www.esa.int/esearch?q=low%2Bearth%2Borbit.
+32. What is User Terminal | IGI Global. (2021). Retrieved from https://www.igi-global.com/dictionary/user-terminal/31237.
+33. Yakovlev, M. (2005, August). The “IADC Space Debris Mitigation Guidelines” and supporting documents. In 4th European Conference on Space Debris. Retrieved from https://adsabs.harvard.edu/full/2005ESASP.587..591Y
 
 ```

@@ -98,11 +98,9 @@ The 2015 Technology Roadmaps enhanced and expanded the TABS of the 2012 Roadmaps
 
 The 2020 revision process began in 2017 and was led by NASA’s Center Technology Council, along with the Office of the Chief Technologist (OCT) and subject matter experts from across the agency with a review of the 2015 TABS. It was decided that the 2020 revision would decouple the TABS from the roadmaps and incorporate a technical discipline-based taxonomy approach to align like technologies under a technology area.
 
-### Figure 1
 
-**2015 NASA Roadmap**
 ![ROADMAP2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
-Note. NASA’s technology development activities expand the frontiers of knowledge and capabilities in aeronautics, science, and space, creating opportunities, markets, and products for U.S. industry and academia. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
+_Figure 3. Note. NASA’s technology development activities 2015 NASA Roadmap. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)_
 
 ### What are the 17 Taxonomy Areas?
 
@@ -124,14 +122,11 @@ Note. NASA’s technology development activities expand the frontiers of knowled
 - TX16: Air Traffic Management and Range Tracking Systems. This area covers safety and automation technologies that include far reaching concepts and technologies for future planning and operations and ones that safely extend the capabilities and range of uses for air transportation and commercial space integration.
 - TX17: Guidance, Navigation, and Control (GN&C). This area covers the unique GN&C system technologies that enable new missions; reduce cost, schedule, mass or power while maintaining or improving GN&C performance; improve system safety and longevity; or reduce environmental impact of aerospace vehicle operations.
 
-### Figure 2 
-
-**NASA Technology Taxonomy Poster**
 
 ![Roadmap2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
  
-Note. According to Bryan (2020), The updated 2020 NASA Technology Taxonomy reflects a shift to a structure that aligns technology areas based on technical disciplines. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
-
+ 
+ _Figure 3. Note.The updated 2020 NASA Technology Taxonomy. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)_
 
 ## **Roadblocks, Issues and Challenges**
 

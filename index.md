@@ -135,7 +135,7 @@ Space sustainability guarantees all countries to have access to space and to fre
 
 ![Space Sustainability](https://www.visualcapitalist.com/wp-content/uploads/2021/10/Space-Sustainability-high-res-new.jpg)
 
-_Figure 5. Space Sustainability._
+_Figure 5. Space Sustainability. Retrieved from [Space Security Index] (https://spacesecurityindex.org/space-security/)_
 
 ### Space Junk or Orbital Debris
 

@@ -89,15 +89,48 @@ Moreover, LEO satellites are not restricted to delivering internet access; they 
 
 ## **Technology Roadmap**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### History of NASA’s Technology Taxonomy
+According to Bryan (2020) The 2020 NASA Technology Taxonomy is part of an evolution that began with technology roadmaps and the Technology Area Breakdown Structure (TABS) drafted in 2010, followed by updates in 2012 and 2015.
 
-### History of NASA
+The effort to develop the roadmaps began in 2010 when NASA identified 14 space technology areas, including top technical challenges and relevant spaceflight missions. The final versions of the roadmaps and related TABS were released in April 2012.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+The 2015 Technology Roadmaps enhanced and expanded the TABS of the 2012 Roadmaps, responding to NASA’s changing needs, advances in technology, and recommended improvements from the National Research Council and other stakeholders. NASA began the effort to update the technology roadmaps by determining how the development process, roadmap scope, and roadmap content could be improved. The 2015 roadmaps and their TABS included several improvements such as an expanded scope and greater standardization.
 
-### The 17 Taxonomy Areas
+The 2020 revision process began in 2017 and was led by NASA’s Center Technology Council, along with the Office of the Chief Technologist (OCT) and subject matter experts from across the agency with a review of the 2015 TABS. It was decided that the 2020 revision would decouple the TABS from the roadmaps and incorporate a technical discipline-based taxonomy approach to align like technologies under a technology area.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Figure 1
+
+**2015 NASA Roadmap**
+![ROADMAP2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
+Note. NASA’s technology development activities expand the frontiers of knowledge and capabilities in aeronautics, science, and space, creating opportunities, markets, and products for U.S. industry and academia.
+
+### What are the 17 Taxonomy Areas?
+
+- TX01: Propulsion Systems. This area covers technologies for chemical and non-chemical propulsion systems or their related ancillary systems for propulsion, space launch propulsion, or in-space propulsion applications.
+- TX02: Flight Computing and Avionics. This area covers unique electronics and computing hardware when applied to flight systems, whether in space or atmospheric.
+- TX03: Aerospace Power and Energy Storage. This area covers the different components of a power system—power generation, energy storage, and power management and distribution—that require technological improvements to enable or enhance NASA missions.
+- TX04: Robotic Systems. This area covers technologies for robotic systems that will be leveraged as science explorers, precursor explorers preceding crewed missions, as crew helpers, as EVA mobility aids, and as caretakers of unattended assets.
+- TX05: Communications, Navigation, and Orbital Debris Tracking and Characterization Systems. This area covers technologies for transferring commands, spacecraft telemetry, mission data, and voice for human exploration missions, while maintaining accurate timing and providing navigation support. Orbital debris can be tracked and characterized by some of the same systems used for spacecraft communications and navigation, as well as by other specialized systems.
+- TX06: Human Health, Life Support, and Habitation Systems. This area covers technologies that are specific to the human element and those that directly affect crew needs for survival and wellbeing, including the environment and interfaces that crew encounter.
+- TX07: Exploration Destination Systems. This area covers the broad range of technologies associated with enabling successful activities in space, from mission operations to in-situ resource utilization.
+- TX08: Sensors and Instruments. This area covers technologies for instruments and sensors, including remote observation capabilities.
+- TX09: Entry, Descent, and Landing. This area covers entry, descent, and landing technologies needed to enable both current and future missions.
+- TX10: Autonomous Systems. This new area covers technologies that (in the context of robotics, spacecraft, or aircraft) enable the system to operate in a dynamic environment independent of external control.
+- TX11: Software, Modeling, Simulation, and Information Processing. This area covers modeling, simulation, and information technology as well as software technologies that increase NASA’s understanding and mastery of the physical world and are the basis of new solution paradigms across the breadth of NASA’s missions.
+- TX12: Materials, Structures, Mechanical Systems, and Manufacturing. This area covers technologies for developing new materials with improved or combined properties, structures that use materials to meet system performance requirements, and innovative manufacturing processes.
+- TX13: Ground, Test, and Surface Systems. This area covers technologies for preparing, assembling, validating, executing, supporting, and maintaining aeronautics and space activities and operations, on Earth and on other planetary surfaces.
+- TX14: Thermal Management Systems. This area covers technologies for acquiring, transporting, and rejecting heat, as well as insulating and controlling the flow of heat to maintain temperatures within specified limits.
+- TX15: Flight Vehicle Systems. This area covers technologies for aerosciences and flight mechanics. Aerosciences is the prediction of vehicle and component atmospheric flight performance and flow qualities to enable robust and efficient flight vehicle development, achieving performance requirements while minimizing environmental impacts. Flight mechanics provides the analysis, prediction, measurement, and test of vehicle dynamics, trajectories, and performance.
+- TX16: Air Traffic Management and Range Tracking Systems. This area covers safety and automation technologies that include far reaching concepts and technologies for future planning and operations and ones that safely extend the capabilities and range of uses for air transportation and commercial space integration.
+- TX17: Guidance, Navigation, and Control (GN&C). This area covers the unique GN&C system technologies that enable new missions; reduce cost, schedule, mass or power while maintaining or improving GN&C performance; improve system safety and longevity; or reduce environmental impact of aerospace vehicle operations.
+
+### Figure 2 
+
+**NASA Technology Taxonomy Poster**
+
+![Roadmap2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
+ 
+Note. According to Bryan (2020), The updated 2020 NASA Technology Taxonomy reflects a shift to a structure that aligns technology areas based on technical disciplines.
 
 
 ## **Roadblocks, Issues and Challenges**

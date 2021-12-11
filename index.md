@@ -53,7 +53,7 @@ According to research studies, about half of the world's population does not hav
 
 ![GEO, MEO, and LEO satellites orbital altitudes and coverage areas](https://www.satellitetoday.com/wp-content/uploads/2021/03/shorthand/322593/dlM6dKKvI6/assets/RmPx2fFwY3/screen-shot-2021-02-18-at-11-57-28-am-1314x498.png)
 
-_Figure 2. GEO, MEO, and LEO satellites orbital altitudes and coverage areas._
+_Figure 2. GEO, MEO, and LEO satellites orbital altitudes and coverage areas. Retrieved from [Via Satellite](https://www.satellitetoday.com/content-collection/ses-hub-geo-meo-and-leo/)._
 
 
 With this, the search for exploration to connect all individuals to the internet begins. As such, several space companies are extending Earth-based technologies by launching low Earth orbit satellite systems (Cooke, 2021). 	
@@ -63,7 +63,7 @@ With this, the search for exploration to connect all individuals to the internet
 
 ![Comparison of GEO, MEO and LEO satellites](https://www.satellitetoday.com/wp-content/uploads/2021/03/shorthand/322593/dlM6dKKvI6/assets/50snBkN5SH/screen-shot-2021-02-18-at-11-57-41-am-1258x1188.png)
 
-_Figure 3. Comparison of GEO, MEO, and LEO satellites._
+_Figure 3. Comparison of GEO, MEO, and LEO satellites. Retrieved from [Via Satellite](https://www.satellitetoday.com/content-collection/ses-hub-geo-meo-and-leo/)._
 
 
 With the power of LEO satellites, it is possible that people's lives may be improved even further. As internet service expands to locations with limited access to technology, it has the potential to transform global connectivity and give endless options to everyone. People would have improved access to information, education, professional opportunities, and healthcare regardless of where they live. As a result, rural villages would be revitalized, while urban congestion and pollution would be reduced. 

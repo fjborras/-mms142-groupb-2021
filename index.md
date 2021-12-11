@@ -54,7 +54,7 @@ The widespread adoption of LEOs across countries may be further delayed by the f
 
 ![table](https://user-images.githubusercontent.com/95443192/145575870-f5d90389-00ae-4886-9fb2-bda4a1bafd1b.jpg)
 
-Figure 4. Table showing the different licensing requirements of internet service providers across Asia and the Pacific. Better Broadband Alliance, 2020, in Garrity and Hussar, 2021, p. 27 (Table 5).
+*Figure 4. Table showing the different licensing requirements of internet service providers across Asia and the Pacific. Better Broadband Alliance, 2020, in Garrity and Hussar, 2021, p. 27 (Table 5).*
 
 ### Space junk or orbital debris
 

@@ -15,13 +15,11 @@ The issue on digital divide has all the more been highlighted during the pandemi
 
 ## **Census of Disconnected Communities**
 
-As technologically progressive we think about the world, a little less than half of the world’s population (47%), or approximately 3.6 billion people do not use the Internet (STL Partners, 2020). One of the reasons is the lack of coverage. And the number one victim of it is the rural areas. Under Geneva (2020), 72% of urban households have an Internet connection. While rural areas only have 38%, almost half compared to urban’s.
+As technologically progressive we think about the world, a little less than half of the world’s population (47%), or approximately 3.6 billion people do not use the Internet (STL Partners, 2020). One of the reason is the lack of coverage and the primary victim of it are the people in rural areas. Under Geneva (2020), 72% of urban households have an Internet connection. While rural areas only have 38%, almost half compared to urban’s.
 
 As reported by Reyes (2020), 60% of the population does not have access to the Internet in the Philippines. Related to the previously mentioned, the difference between urban and rural is also an alarming concern here in the Philippines. The difference of averaged fixed broadband download speed is 21.03 Mbps, between the five of the wealthiest cities (mostly urban areas) and the poorest cities (mostly rural areas) in the Philippines.  
 
 Despite the inevitable technological advancements, not every country can keep with the pace of leading countries in technology. Thus, growing the digital gap. One of the initiatives to alleviate this is the introduction of Low-Earth Orbit Satellites. It may not solve all the corresponding issues that widen the digital gap. However, it will benefit the disconnected communities due to lacking coverage and fundings. 
-
-![Satellite](https://www.collinsdictionary.com/images/thumb/satellite_180990509_250.jpg)
 
 ## **Are Disruptive Technologies an answer to digital inequalities?**
 

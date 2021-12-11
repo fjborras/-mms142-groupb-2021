@@ -99,9 +99,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
 ### Spectral interferences for other satellite operators
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Several satellite companies are intending to develop (and is currently developing) low- and middle-earth orbit satellite systems for the purpose of providing broadband communication.   As constellations are launched and the number of LEO satellites rises, the possibility of LEO/GEO satellite interference grows dramatically. Inter-system satellite coexistence may present challenges for space programs and emerging technologies caused by substantial growth in interference levels and the intricacy of linkages arising from constellation diversity. The reason for such an issue is when LEO satellites intersect the route of GEO satellites (Cherian, 2019).  
+ 
+Operators of non-geostationary orbit satellites (NGSOs) will have to ensure that NGSO radio frequencies do not interfere with existing geosynchronous orbit (GEO) satellites, as dictated by the International Telecommunication Union (ITU) rules (Garrity and Hussar, 2021). Failure to comply may possibly result in multiple satellite units being decommissioned, which could be problematic for GEOs in the long run if not addressed especially during this time wherein the developments in GEO satellites have now allowed these constellations to run at lower power levels.  
+
+One example of these said advancement  is the utilization of shorter antennae for GEO satellites, and because LEO satellites orbit in proximity near the earth, they employ shorter antennae as well. While smaller antennas have several advantages, such as a lower dimension and reduce price, it also contains drawbacks, such as amplified side-lobe gain, which increases the possibility of interference with operational power demands. With this,  GEO satellites secured from LEO satellite interference by LEO Equivalent Power Flux Density (EPFD) restrictions may suddenly obtain vulnerability to LEO satellite interference (Potter, 2018).
 
 ### Cost of Entry
 

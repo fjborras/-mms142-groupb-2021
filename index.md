@@ -32,7 +32,7 @@ Clayton Christensen, a celebrated consultant in the field of business and academ
 A dilemma in the concepts of new technology, however, is that it may be defined as sustaining or disruptive. While the latter refers to the gradual advancements in existing technology that supplement and create a better consumer and technology experience, disruptive technology is something entirely new in the market. As a result, the actual application and processes of such technology may be dubious and new for potential consumers.
 
 ![Disruptive Innovation Model](https://public-media.interaction-design.org/images/encyclopedia/disruptive_innovation/fig_1_the_disruptive_innovation_model.jpg)
-_Figure 1: The Disruptive Innovation Model by Clayton Christensen._
+_Figure 1. The Disruptive Innovation Model by Clayton Christensen._
 
 Disruptive innovations are blended in markets together with existing competitions with the aim of providing a distinctive consumer experience that is indicative of its peculiarity among its competitions, thus making it disruptive. To achieve this, Christensen (1997) in his book “the Innovator’s Dilemma provided the Disrputive Innovation Model which identifies three crucial components of disruptive innovations.
 
@@ -53,7 +53,7 @@ According to research studies, about half of the world's population does not hav
 
 ![GEO, MEO, and LEO satellites orbital altitudes and coverage areas](https://www.satellitetoday.com/wp-content/uploads/2021/03/shorthand/322593/dlM6dKKvI6/assets/RmPx2fFwY3/screen-shot-2021-02-18-at-11-57-28-am-1314x498.png)
 
-_Figure 2: GEO, MEO, and LEO satellites orbital altitudes and coverage areas._
+_Figure 2. GEO, MEO, and LEO satellites orbital altitudes and coverage areas._
 
 
 With this, the search for exploration to connect all individuals to the internet begins. As such, several space companies are extending Earth-based technologies by launching low Earth orbit satellite systems (Cooke, 2021). 	
@@ -63,7 +63,7 @@ With this, the search for exploration to connect all individuals to the internet
 
 ![Comparison of GEO, MEO and LEO satellites](https://www.satellitetoday.com/wp-content/uploads/2021/03/shorthand/322593/dlM6dKKvI6/assets/50snBkN5SH/screen-shot-2021-02-18-at-11-57-41-am-1258x1188.png)
 
-_Figure 3: Comparison of GEO, MEO, and LEO satellites._
+_Figure 3. Comparison of GEO, MEO, and LEO satellites._
 
 
 With the power of LEO satellites, it is possible that people's lives may be improved even further. As internet service expands to locations with limited access to technology, it has the potential to transform global connectivity and give endless options to everyone. People would have improved access to information, education, professional opportunities, and healthcare regardless of where they live. As a result, rural villages would be revitalized, while urban congestion and pollution would be reduced. 
@@ -135,7 +135,7 @@ Space sustainability guarantees all countries to have access to space and to fre
 
 ![Space Sustainability](https://www.visualcapitalist.com/wp-content/uploads/2021/10/Space-Sustainability-high-res-new.jpg)
 
-_Figure 4: Space Sustainability._
+_Figure 5. Space Sustainability._
 
 ### Space junk or orbital debris
 

@@ -4,7 +4,14 @@ Over the last few decades, technological progress is exponentially growing. Rose
 
 ## **Digital Inequalities**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As the technology globally progresses, it emphasizes the dramatic difference between adaptation of stable and developing countries (OECD, 2011).  Not all countries can afford to keep up with these developments – provoking the widening of the digital divide.
+ 
+Satellite communications coverage has already been global, however the issue about its reach is still not being resolved up to this day. According to ADB (2021), even though the use of the internet has been rapidly spreading within Asia and the Pacific, there are still about 2.4 billion people within the region that remain out of internet coverage.
+ 
+ADB (2021) also stated that about 3 billion people live more than 10 km away from the high-capacity fiber optic cable infrastructures, which makes it difficult for them to access broadband internet. According to Garrity and Husar (2021), satellite connectivity is the only option available for those living in geographies without access to high-capacity fiber optic cable infrastructures.
+ 
+The issue on digital divide has all the more been highlighted during the pandemic because internet access is needed for survival and for recovery. Countries globally are relying on internet connectivity to recover from the impacts of the pandemic in terms of economic activity, governance, and social development (John Garrity and Arndt Husar, 2021). However, even before the pandemic started, the internet was already an essential tool for knowledge, information source, and economic services.
+
 
 ## **Census of Disconnected Communities**
 

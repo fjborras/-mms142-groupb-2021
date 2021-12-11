@@ -129,7 +129,12 @@ _Figure 4: Space Sustainability._
 
 ### Space junk or orbital debris
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Another issue concerned with the possible proliferation of low-earth orbit satellites is its possible contribution to space junk. As observed, the low-earth orbit is getting increasingly congested with space debris as a result of its suitability as a specified location for space satellite missions and launches that has been going on for the past years. The density of spacecrafts and satellites makes low-earth orbit a crucial source of concern. To picture out,  Elon Musk's Space Exploration Technologies Corp., for example, already has over 1,700 Starlink satellites in orbit and is currently seeking authorization from authorities to install 30,000 more to provide convenient internet connectivity from space (Shields, 2021). 
+
+The usual common description of LEO is somewhere between 99 miles and 1,200 miles just above the Planet's surface (Yakolvev, 2005). Around this height, air molecules cause higher pressure, which causes orbital decay. This orbital delay occurs when satellites circulating in the thermosphere are subjected to an aerodynamic drag caused by changes in air mass densities, which causes satellite orbits to degrade, thus resulting in the reduction of satellite life spans. Due to the inconsistent modeling of this force,  there are inaccuracies in orbital projections, which makes it difficult to determine proper orbital circulations and reduction of risks in satellite collisions.
+
+With this issue, these low-earth orbited spacecrafts and satellites must be augmented regularly to combat this downforce, or else their orbital motion would drop and they will drift into the lower atmosphere. This orbital decay causes a shorter life expectancy for LEO satellites, unlike GEO satellites' orbit which is commonly situated above the equator of the earth (around 22 thousand miles), which means aerodynamic drag is lesser than LEO (Shultz, 2020). This is one of the reasons why GEO satellites are way more resistant and live longer than LEO satellites, and its deterioration in the said space, adds to the accumulation of space debris floating around LEO such as collision-caused pieces, defunct satellites, and discarded spacecraft materials. 
+
 
 ### Congestion
 

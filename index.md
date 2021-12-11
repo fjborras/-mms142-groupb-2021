@@ -102,7 +102,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## **Roadblocks, Issues and Challenges**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The aforementioned information above shows not only the features of low earth orbit satellites but also their capacity and potential to catapult internet connectivity across the globe. Additionally, the exploration and funding of several companies to its burgeoning displays it as a unique technology that would not just benefit these stakeholders but also prospected consumers, even extending its market scope in hopes to address digital inequality. Despite their propitious qualities, LEO satellites have accompanying issues that we must take into consideration before patronizing its benefits and yielding our hopes for a digitally inclusive world.  These issues include but are not limited to; Spectral interferences for other satellite operators, cost issues, licensing, light pollution, space sustainability, space junk, and space congestion. 
 
 
 ### Spectral Interferences for Other Satellite Operators

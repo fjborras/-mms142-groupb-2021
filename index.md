@@ -32,7 +32,7 @@ Clayton Christensen, a celebrated consultant in the field of business and academ
 A dilemma in the concepts of new technology, however, is that it may be defined as sustaining or disruptive. While the latter refers to the gradual advancements in existing technology that supplement and create a better consumer and technology experience, disruptive technology is something entirely new in the market. As a result, the actual application and processes of such technology may be dubious and new for potential consumers.
 
 ![Disruptive Innovation Model](https://public-media.interaction-design.org/images/encyclopedia/disruptive_innovation/fig_1_the_disruptive_innovation_model.jpg)
-_Figure 1. The Disruptive Innovation Model by Clayton Christensen.Retrieved from [Interaction Design Foundation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation)._
+_Figure 1. The Disruptive Innovation Model by Clayton Christensen. Retrieved from [Interaction Design Foundation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation)._
 
 Disruptive innovations are blended in markets together with existing competitions to provide a distinctive consumer experience that is indicative of its peculiarity among its competitions, thus making it disruptive. To achieve this, Christensen (1997) in his book “The Innovator’s Dilemma" provided the _Disruptive Innovation Model_ which identifies three crucial components of disruptive innovations.
 

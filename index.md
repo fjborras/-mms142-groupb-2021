@@ -100,7 +100,7 @@ The 2020 revision process began in 2017 and was led by NASA’s Center Technolog
 
 
 ![ROADMAP2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
-_Figure 3. Note. NASA’s technology development activities 2015 NASA Roadmap. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)_
+_Figure 4. Note. NASA’s technology development activities 2015 NASA Roadmap. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)_
 
 ### What are the 17 Taxonomy Areas?
 
@@ -126,7 +126,7 @@ _Figure 3. Note. NASA’s technology development activities 2015 NASA Roadmap. R
 ![Roadmap2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
  
  
- _Figure 3. Note.The updated 2020 NASA Technology Taxonomy. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)_
+ _Figure 5. Note.The updated 2020 NASA Technology Taxonomy. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)_
 
 ## **Roadblocks, Issues and Challenges**
 
@@ -155,7 +155,7 @@ The widespread adoption of LEOs across countries may be further delayed by the f
 
 ![table](https://user-images.githubusercontent.com/95443192/145575870-f5d90389-00ae-4886-9fb2-bda4a1bafd1b.jpg)
 
-*Figure 4. Table showing the different licensing requirements of internet service providers across Asia and the Pacific. Better Broadband Alliance, 2020, in Garrity and Hussar, 2021, p. 27 (Table 5).*
+*Figure 6. Table showing the different licensing requirements of internet service providers across Asia and the Pacific. Better Broadband Alliance, 2020, in Garrity and Hussar, 2021, p. 27 (Table 5).*
 
 ### Space Sustainability
 
@@ -163,7 +163,7 @@ Space sustainability guarantees all countries to have access to space and to fre
 
 ![Space Sustainability](https://www.visualcapitalist.com/wp-content/uploads/2021/10/Space-Sustainability-high-res-new.jpg)
 
-_Figure 5. Space Sustainability. Retrieved from [Visual Capitalist](https://www.visualcapitalist.com/space-sustainability-preserving-the-usability-of-outer-space/)_
+_Figure 7. Space Sustainability. Retrieved from [Visual Capitalist](https://www.visualcapitalist.com/space-sustainability-preserving-the-usability-of-outer-space/)_
 
 ### Space Junk or Orbital Debris
 

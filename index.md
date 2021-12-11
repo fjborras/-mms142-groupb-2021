@@ -87,11 +87,11 @@ Moreover, LEO satellites are not restricted to delivering internet access; they 
 
 - **ViaSat's [XVI](www.viasat.com/space-innovation/space-systems/small-satellites/)** - ViaSat is an American telecommunications company based in California. It provides high-speed internet connection services to commercial markets and military units via satellites. Currently, they are working on a LEO satellite named XVI, which will try to extend the range of military communication's Link 16. It intends to improve communications satellite technology, tactical data linkages, and network encryption on the battlefield. Once proven feasible, the company eyes to expand its service to the rest of the world by providing IP and broadband internet networks anywhere. 
 
-## **Technology roadmap**
+## **Technology Roadmap**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### History of Nasa
+### History of NASA
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
@@ -100,14 +100,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
-## **Roadblocks, issues and challenges**
+## **Roadblocks, Issues and Challenges**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-### Spectral interferences for other satellite operators
+### Spectral Interferences for Other Satellite Operators
 
-Several satellite companies are intending to develop (and is currently developing) low- and middle-earth orbit satellite systems for the purpose of providing broadband communication.   As constellations are launched and the number of LEO satellites rises, the possibility of LEO/GEO satellite interference grows dramatically. Inter-system satellite coexistence may present challenges for space programs and emerging technologies caused by substantial growth in interference levels and the intricacy of linkages arising from constellation diversity. The reason for such an issue is when LEO satellites intersect the route of GEO satellites (Cherian, 2019).  
+Several satellite companies are intending to develop (and is currently developing) low and middle-earth orbit satellite systems for the purpose of providing broadband communication.  As constellations are launched and the number of LEO satellites rises, the possibility of LEO/GEO satellite interference grows dramatically. Inter-system satellite coexistence may present challenges for space programs and emerging technologies caused by substantial growth in interference levels and the intricacy of linkages arising from constellation diversity. The reason for such an issue is when LEO satellites intersect the route of GEO satellites (Cherian, 2019).  
  
 Operators of non-geostationary orbit satellites (NGSOs) will have to ensure that NGSO radio frequencies do not interfere with existing geosynchronous orbit (GEO) satellites, as dictated by the International Telecommunication Union (ITU) rules (Garrity and Hussar, 2021). Failure to comply may possibly result in multiple satellite units being decommissioned, which could be problematic for GEOs in the long run if not addressed especially during this time wherein the developments in GEO satellites have now allowed these constellations to run at lower power levels.  
 
@@ -121,7 +121,7 @@ Second, LEO satellite ground stations are required to connect the entire world t
 
 Further, the expensive cost of a user terminal is another issue as it is primarily driven by the prospective number of subscribers. User terminals are mobile satellite terminals that subscribers use to access wireless network services (IGI Global, n.d.). The prices of these terminals vary according to the number of users. Thus, given that the number of subscribers is uncertain, an affordable subscription fee may be impossible to achieve. As such, a subscription for a practical number of users would cost roughly $1000 USD. 
  
-### Licensing issues
+### Licensing Issues
 
 The widespread adoption of LEOs across countries may be further delayed by the fact that each country has its own set of licensing rules and regulations, and this could discourage operators from entering countries that might have strict and lengthy licensing processes (Garrity and Hussar, 2021). The table below shows an example of the licensing requirements in Asia and the Pacific.
 
@@ -137,28 +137,27 @@ Space sustainability guarantees all countries to have access to space and to fre
 
 _Figure 4: Space Sustainability._
 
-### Space junk or orbital debris
+### Space Junk or Orbital Debris
 
-Another issue concerned with the possible proliferation of low-earth orbit satellites is its possible contribution to space junk. As observed, the low-earth orbit is getting increasingly congested with space debris as a result of its suitability as a specified location for space satellite missions and launches that has been going on for the past years. The density of spacecrafts and satellites makes low-earth orbit a crucial source of concern. To picture out,  Elon Musk's Space Exploration Technologies Corp., for example, already has over 1,700 Starlink satellites in orbit and is currently seeking authorization from authorities to install 30,000 more to provide convenient internet connectivity from space (Shields, 2021). 
+Another issue concerned with the possible proliferation of low-earth orbit satellites is its possible contribution to space junk. As observed, the low-earth orbit is getting increasingly congested with space debris as a result of its suitability as a specified location for space satellite missions and launches that has been going on for the past years. The density of spacecrafts and satellites makes low-earth orbit a crucial source of concern. To illustrate,  Elon Musk's Space Exploration Technologies Corp. now has over 1,700 Starlink satellites in orbit and is seeking permission from authorities to install 30,000 more to provide convenient internet connectivity from space (Shields, 2021). 
 
-The usual common description of LEO is somewhere between 99 miles and 1,200 miles just above the Planet's surface (Yakolvev, 2005). Around this height, air molecules cause higher pressure, which causes orbital decay. This orbital delay occurs when satellites circulating in the thermosphere are subjected to an aerodynamic drag caused by changes in air mass densities, which causes satellite orbits to degrade, thus resulting in the reduction of satellite life spans. Due to the inconsistent modeling of this force,  there are inaccuracies in orbital projections, which makes it difficult to determine proper orbital circulations and reduction of risks in satellite collisions.
+The usual common description of LEO is somewhere between 160 miles and 1,600 miles above the earth's surface (Yakolvev, 2005). Around this height, air molecules cause higher pressure, which causes orbital decay. This orbital decay occurs when satellites circulating in the thermosphere are subjected to an aerodynamic drag caused by changes in air mass densities, which causes satellite orbits to degrade, thus resulting in the reduction of satellite life spans. Due to the inconsistent modeling of this force, there are inaccuracies in orbital projections, which makes it difficult to determine proper orbital circulations and reduction of risks in satellite collisions.
 
-With this issue, these low-earth orbited spacecrafts and satellites must be augmented regularly to combat this downforce, or else their orbital motion would drop and they will drift into the lower atmosphere. This orbital decay causes a shorter life expectancy for LEO satellites, unlike GEO satellites' orbit which is commonly situated above the equator of the earth (around 22 thousand miles), which means aerodynamic drag is lesser than LEO (Shultz, 2020). This is one of the reasons why GEO satellites are way more resistant and live longer than LEO satellites, and its deterioration in the said space, adds to the accumulation of space debris floating around LEO such as collision-caused pieces, defunct satellites, and discarded spacecraft materials. 
+With this issue, these low-earth orbited spacecrafts and satellites must be augmented regularly to combat this downforce, or else their orbital motion would drop and they will drift into the lower atmosphere. This orbital decay causes a shorter life expectancy for LEO satellites, unlike GEO satellites' orbit which is commonly situated above the equator of the earth (around 22 thousand miles), which means aerodynamic drag is lesser than LEO (Shultz, 2020). This is one of the reasons why GEO satellites are way more resistant and lives longer than LEO satellites, and its deterioration in the said space, adds to the accumulation of space debris floating around LEO such as collision-caused pieces, defunct satellites, and discarded spacecraft materials. 
 
 
 ### Congestion
 
 If the deployment of LEO satellites is successful, the earth’s orbit will become increasingly congested and polluted. Consequently, astronomers' views will be obstructed, hampering their search for undiscovered planets or even black holes. Further, the increased congestion in the Earth's orbit increases the likelihood of space collisions. As such, this can result in the "_Kessler Syndrome_", in which debris collides with other satellites, causing even more debris. As a result, the space would be totally inaccessible and unsafe. 
 
-### Light pollution
+### Light Pollution
 
-The International Astronomical Union have voiced their concern about LEO satellites affecting the quality of stargazing and the impact it will have on nocturnal life. When Starlink launched its first batch of satellites in May 2019, stargazers noticed how bright and visible they were in the night sky. To address the brightness problem, Starlink launched satellites in December 2019 with a special coating to reduce the spacecraft's reflectiveness, thereby reducing its likelihood to interfere with astronomical observations. Starting in June 2020, Starlink has used VisorSat, a light-blocking panel to block sunlight and reduce its visibility.
+The International Astronomical Union have voiced their concern about LEO satellites affecting the quality of stargazing and the impact it will have on nocturnal life. When Starlink launched its first batch of satellites in May 2019, stargazers noticed how bright and visible they were in the night sky. To address the brightness problem, Starlink launched satellites in December 2019 with a special coating to reduce the spacecraft's reflectiveness, thereby reducing its likelihood to interfere with astronomical observations. As such, beginning June 2020, Starlink has employed VisorSat, a light-blocking panel, to block sunlight and minimize visibility. 
 
 
 ## **Conclusion**
 
-Overall, LEO satellites could dramatically transform the world’s technologies, transportations, and connectivity. These cost-effective constellations have the ability to provide tangible solutions and change everyone’s lives for the better. These include but are not limited to the promotion of business digitalization, adoption of the Internet of Things (IoT), and utilization of terrestrial data systems of military units and rescue operations. However, despite the promising features and its potential capacity to be a solution for digital inequalities especially in the context of internet connectivity, its accompanying issues should also be taken into consideration. Issues such as spectral interferences for other satellites, cost issues, licensing, light pollution, and space junk should be deliberately discussed by stakeholders involved in the proliferation of LEO satellites. If the initial hurdles in its implementation could be overcome, then it could offer a myriad of possibilities for connecting all corners of the world, and maybe, perhaps, finally bridging the digital divide.
-
+Overall, LEO satellites could dramatically transform the world’s technologies, transportations, and connectivity. These cost-effective constellations have the ability to provide tangible solutions and change everyone’s lives for the better. These include but are not limited to the promotion of business digitalization, adoption of the Internet of Things (IoT), and utilization of terrestrial data systems of military units and rescue operations. However, despite its promising features and potential capacity to be a solution for digital inequalities especially in the context of internet connectivity, its accompanying issues should also be taken into consideration. These include spectral interferences for other satellites, cost issues, licensing concerns, light pollution, and space junk. As such, these should be deliberately discussed by stakeholders involved in the proliferation of LEO satellites. If the initial hurdles are overcome, it might open up a myriad of possibilities for connectiong all corners of the world and, perhaps, eventually bridging the digital divide. 
 
 
 ```markdown

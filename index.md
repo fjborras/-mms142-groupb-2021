@@ -88,6 +88,7 @@ Operators of non-geostationary orbit satellites (NGSOs) will have to ensure that
 
 One example of these said advancement  is the utilization of shorter antennae for GEO satellites, and because LEO satellites orbit in proximity near the earth, they employ shorter antennae as well. While smaller antennas have several advantages, such as a lower dimension and reduce price, it also contains drawbacks, such as amplified side-lobe gain, which increases the possibility of interference with operational power demands. With this,  GEO satellites secured from LEO satellite interference by LEO Equivalent Power Flux Density (EPFD) restrictions may suddenly obtain vulnerability to LEO satellite interference (Potter, 2018).
 
+
 ### Cost of Entry
 
 First, operating these satellites is costly. Kinney (2021) estimates that the production process and cost per satellite is around $1 million USD. Given that satellites have a total lifecycle of 5 to 7 years, keeping them operational for a lifetime would be prohibitively expensive. Moreover, the cost of launching LEO satellites is roughly equal to the price of manufacturing them. Given a projected cost of $2000 USD per kilogram, the launch cost for a few hundred kg LEO satellite is at least half the satellite's value. 

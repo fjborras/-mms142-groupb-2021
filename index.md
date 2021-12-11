@@ -14,10 +14,30 @@ As reported by Reyes (2020), 60% of the population does not have access to the I
 
 Despite the inevitable technological advancements, not every country can keep with the pace of leading countries in technology. Thus, growing the digital gap. One of the initiatives to alleviate this is the introduction of Low-Earth Orbit Satellites. It may not solve all the corresponding issues that widen the digital gap. However, it will benefit the disconnected communities due to lacking coverage and fundings. 
 
+![Satellite](https://www.collinsdictionary.com/images/thumb/satellite_180990509_250.jpg)
 
-## **Is disruptive technologies an answer to digital inequalities?**
+## **Are Disruptive Technologies an answer to digital inequalities?**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+From the word “disruptive”, disruptive technology pertains to any emerging technology, often obscure, that provides a substantial modification to the built-in system of how consumers, current technologies, and markets operate. In simpler terms, an older process, product, or habit is replaced by a disruptive technology. At least to early users, it typically possesses better features that are readily apparent. Disruptive technologies are usually developed by upstarts but are also administered by established businesses as they have better capacities in financial and project implementation aspects. 
+
+Since a disruptive technology has features that are greater in comparison to its potential competition, disruptive technology then makes these systems and behaviors obsolete as clamor from prospective consumers increases.
+
+Clayton Christensen, a celebrated consultant in the field of business and academics, publicized the concept of disruptive technology from his book entitled The Innovator's Dilemma which was released in 1997. Since then, the term disruptive technology raises a significant start-up strategy for any business, corporates, and developers in attempting to produce a distinctive mass-market offering (Smith, 2020).
+
+A dilemma in the concepts of new technology, however, is that it may be defined as sustaining or disruptive. While the latter refers to the gradual advancements in existing technology that supplement and create a better consumer and technology experience, disruptive technology is something entirely new in the market. As a result, the actual application and processes of such technology may be dubious and new for potential consumers.
+
+![Disruptive Innovation Model](https://public-media.interaction-design.org/images/encyclopedia/disruptive_innovation/fig_1_the_disruptive_innovation_model.jpg)
+_Figure 1: The Disruptive Innovation Model by Clayton Christensen._
+
+Disruptive innovations are blended in markets together with existing competitions with the aim of providing a distinctive consumer experience that is indicative of its peculiarity among its competitions, thus making it disruptive. To achieve this, Christensen (1997) in his book “the Innovator’s Dilemma provided the Disrputive Innovation Model which identifies three crucial components of disruptive innovations.
+
+First, a significant pace of progress of customer utilization and absorption is seen in every market, displaying a customer’s ability to use such technology for numerous benefits. Though it is simplified by a slowly progressing dotted line, in actuality, there are numerous lines that exist in a market that pertains to the individual demands of customers, represented by the distribution curve on the right. This explains the attribute of the line being dotted as the  performance that customers can utilize or support are distributed into numerous levels, hence producing irregularities which existing and disruptive technologies must cater to.
+
+Second, innovating enterprises give a distinctively varied direction of development in each market when they introduce upgraded technologies. As shown in the figure, the elevated solid lines (blue and green) display the rate of technological improvement which evidently surpasses the level or capacity of consumers to support or utilize these new offerings. Why so? This is to establish to the market that a technology can leverage its current offerings and even supersede pre-existing market trends and cultures. As a result, a corporation whose goods are centered on  the majority of consumer's present demands is likely to surpass the current market will eventually use or need in the future. 
+
+The dichotomy between sustaining and disruptive innovation is the model's third important component.Sustaining innovations (represented by the blue line) aims to provide better performance to high and low demanding customers through gradual, annual, or periodic improvements that all great businesses churn out are some sustaining innovations. Disruptive innovations, on the other hand, disregard the notion of trying to improve offerings for current customers in existing marketplaces. Instead, it infiltrates markets by delivering technologies and services that are distinct (may it be inferior or superior) to those currently offered, destablize and alter the market’s direction (Christensen, n.d.). 
+
+
 
 ## **Introducing LEO (Low Earth Orbit) Satellite**
 

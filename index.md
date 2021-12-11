@@ -99,6 +99,14 @@ The widespread adoption of LEOs across countries may be further delayed by the f
 
 *Figure 4. Table showing the different licensing requirements of internet service providers across Asia and the Pacific. Better Broadband Alliance, 2020, in Garrity and Hussar, 2021, p. 27 (Table 5).*
 
+### Space Sustainability
+
+Space sustainability guarantees all countries to have access to space and to freely use it for various peaceful purposes. There are three prominent issues in space sustainability: space junk, space congestion, and space security.
+
+![Space Sustainability](https://www.visualcapitalist.com/wp-content/uploads/2021/10/Space-Sustainability-high-res-new.jpg)
+
+_Figure 4: Space Sustainability._
+
 ### Space junk or orbital debris
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -109,7 +117,7 @@ If the deployment of LEO satellites is successful, the earth’s orbit will beco
 
 ### Light pollution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The International Astronomical Union have voiced their concern about LEO satellites affecting the quality of stargazing and the impact it will have on nocturnal life. When Starlink launched its first batch of satellites in May 2019, stargazers noticed how bright and visible they were in the night sky. To address the brightness problem, Starlink launched satellites in December 2019 with a special coating to reduce the spacecraft's reflectiveness, thereby reducing its likelihood to interfere with astronomical observations. Starting in June 2020, Starlink has used VisorSat, a light-blocking panel to block sunlight and reduce its visibility.
 
 
 ## **Conclusion**

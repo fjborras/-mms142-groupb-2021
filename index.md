@@ -102,7 +102,7 @@ The 2020 revision process began in 2017 and was led by NASA’s Center Technolog
 
 **2015 NASA Roadmap**
 ![ROADMAP2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
-Note. NASA’s technology development activities expand the frontiers of knowledge and capabilities in aeronautics, science, and space, creating opportunities, markets, and products for U.S. industry and academia.
+Note. NASA’s technology development activities expand the frontiers of knowledge and capabilities in aeronautics, science, and space, creating opportunities, markets, and products for U.S. industry and academia. Retrieved from [ROAD MAP 2015](https://www.nasa.gov/sites/default/files/thumbnails/image/oct_roadmap_tabs_0.jpg)
 
 ### What are the 17 Taxonomy Areas?
 
@@ -130,7 +130,7 @@ Note. NASA’s technology development activities expand the frontiers of knowled
 
 ![Roadmap2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
  
-Note. According to Bryan (2020), The updated 2020 NASA Technology Taxonomy reflects a shift to a structure that aligns technology areas based on technical disciplines.
+Note. According to Bryan (2020), The updated 2020 NASA Technology Taxonomy reflects a shift to a structure that aligns technology areas based on technical disciplines. Retrieved from [ROAD MAP 2020](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_technology_taxonomy_poster.jpg)
 
 
 ## **Roadblocks, Issues and Challenges**
